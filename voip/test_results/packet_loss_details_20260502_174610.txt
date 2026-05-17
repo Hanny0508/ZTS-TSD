@@ -1,0 +1,21 @@
+Packet Loss Simulation Report
+Generated: 2026-05-02 17:46:10
+Audio: /path/to/stego_audio.wav
+Trials per rate: 1000
+Max retries: 3
+============================================================
+
+
+============================================================
+Loss Rate: 10%
+============================================================
+  [Trial #1] data_id=88451897-cc69-496f-a0ed-7f51cab533ca, loss_rate=0.1
+    Attempt 1: packet lost (simulated)
+    Attempt 2: send failed (channel error)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #2] data_id=943aa8e5-0457-4ba2-b149-56f7e0066ac3, loss_rate=0.1
+    Attempt 1: send failed (channel error)
+    Attempt 2: send failed (channel error)
+    Attempt 3: send failed (channel error)
+    -> Failed after 3 attempts

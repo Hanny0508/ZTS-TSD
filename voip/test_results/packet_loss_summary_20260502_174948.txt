@@ -1,0 +1,15 @@
+Packet Loss Simulation Report
+Generated: 2026-05-02 17:49:48
+Audio: D:\Pycharm\PyCharm_pro2023.3.4\creater\pythonProject2\zsctsd\master\naturalspeech3_facodec\audio\1_to_2_vc.wav
+Trials per rate: 1000
+Max retries: 3
+============================================================
+
+ Loss Rate |  Success |  Failed |     Rate
+------------------------------------------
+     10%   |      996 |       4 |  99.6%
+     20%   |      992 |       8 |  99.2%
+     30%   |      972 |      28 |  97.2%
+
+============================================================
+Test completed.

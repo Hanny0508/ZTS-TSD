@@ -1,0 +1,407 @@
+Packet Loss Simulation Report
+Generated: 2026-05-02 17:49:48
+Audio: D:\Pycharm\PyCharm_pro2023.3.4\creater\pythonProject2\zsctsd\master\naturalspeech3_facodec\audio\1_to_2_vc.wav
+Trials per rate: 1000
+Max retries: 3
+============================================================
+
+
+============================================================
+Loss Rate: 10%
+============================================================
+  [Trial #50] data_id=77a0fcce-94d8-47fb-bf23-0e465fe2057e, loss_rate=0.1
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #100] data_id=492390af-f360-41eb-89d2-aca0c61de6a6, loss_rate=0.1
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #150] data_id=1685996b-f5eb-44ac-b0fd-2e5666cf066a, loss_rate=0.1
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #200] data_id=bac634c8-bcbd-4084-a569-26ef25969465, loss_rate=0.1
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #250] data_id=e074b751-8f6a-4e6f-a32b-b0442908ec2d, loss_rate=0.1
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #300] data_id=cd33dd20-7baa-463b-8310-07b22bfd15f7, loss_rate=0.1
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #350] data_id=39d088c2-bd0a-43a7-9220-9e456eebea70, loss_rate=0.1
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet delivered
+    -> Success after 2 attempt(s)
+  [Trial #400] data_id=bf5e3267-2585-4f49-8b18-3956576be939, loss_rate=0.1
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #450] data_id=d6554715-1bbe-4717-8d98-4ba3ac237dcb, loss_rate=0.1
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet delivered
+    -> Success after 2 attempt(s)
+  [Trial #500] data_id=e8dd6c90-438e-4542-920e-1650f672e6ce, loss_rate=0.1
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #532] data_id=805b6e09-412f-44b9-86c0-be7255dd5a1b, loss_rate=0.1
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #550] data_id=a7106865-99f9-47ef-aebe-2b54d7b506db, loss_rate=0.1
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #600] data_id=5649f3bf-d274-4d2f-a61b-6dc605046de7, loss_rate=0.1
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #650] data_id=8d0556ca-5af7-419f-b711-110ff79f2d2b, loss_rate=0.1
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #670] data_id=297d8ee0-4d09-45f7-ac8a-4e97246d42a1, loss_rate=0.1
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #700] data_id=a907ba8f-47da-4df3-aac9-6cff727412cf, loss_rate=0.1
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #750] data_id=3297da85-206a-4cf9-b36f-747ff14e6596, loss_rate=0.1
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #800] data_id=7f679238-d24c-4885-ac31-6393ef509a3d, loss_rate=0.1
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #826] data_id=58ab9f30-6361-478c-89ba-7be42ff9701b, loss_rate=0.1
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #850] data_id=a3d94098-be3e-4f83-b739-ac73e76d96dd, loss_rate=0.1
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #852] data_id=e590c3da-f4d5-407b-941d-ad3e7c404892, loss_rate=0.1
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #900] data_id=3f7556ef-11a3-447a-b348-5bf38c8a3e63, loss_rate=0.1
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet delivered
+    -> Success after 2 attempt(s)
+  [Trial #950] data_id=7a5f034c-9c36-46c9-aeab-391565036719, loss_rate=0.1
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #1000] data_id=b3e371e8-33c0-4bae-9d81-dd581946c046, loss_rate=0.1
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+
+============================================================
+Loss Rate: 20%
+============================================================
+  [Trial #8] data_id=6e32d39b-8492-4d3b-9225-a00eeb061a10, loss_rate=0.2
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #50] data_id=ec7a9a5e-7773-47f2-9e2d-53cfbb8ce5a5, loss_rate=0.2
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet delivered
+    -> Success after 2 attempt(s)
+  [Trial #100] data_id=129ec5bc-9588-4e1b-8015-5b74cab8d7c5, loss_rate=0.2
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet delivered
+    -> Success after 2 attempt(s)
+  [Trial #138] data_id=09f38c06-6dfe-4608-a52c-8e1852b16a96, loss_rate=0.2
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #150] data_id=ab931cfd-4f46-4936-843b-14eab2434be7, loss_rate=0.2
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #200] data_id=0340fd81-7a67-4065-a0bd-2623c388cf59, loss_rate=0.2
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #250] data_id=23a8458c-ec1c-4811-9ae0-83564ad16072, loss_rate=0.2
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #290] data_id=b5cd27a7-c650-4e4e-8a50-40608f30303b, loss_rate=0.2
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #300] data_id=9443b25b-6609-4e7c-8f69-43fb6ded6914, loss_rate=0.2
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #311] data_id=52808467-ab0f-4a47-9c9d-3ff6baca35df, loss_rate=0.2
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #350] data_id=7a77152f-934b-4c77-88b2-5e87d65c3030, loss_rate=0.2
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #400] data_id=d703d404-b879-4510-a35b-a18f250e9562, loss_rate=0.2
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #416] data_id=c470af34-380b-4fa6-8c24-bef2387476b7, loss_rate=0.2
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #444] data_id=67bffdb2-0efc-4b99-8cdf-9cf61b5ef559, loss_rate=0.2
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #450] data_id=db790af1-0de4-42e2-82f5-90b1ee38d03a, loss_rate=0.2
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #500] data_id=b329f36c-059b-4819-a7f6-dafdf472a3e0, loss_rate=0.2
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #550] data_id=2595c5f9-77b2-4591-9a68-7b33972a1bf1, loss_rate=0.2
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #600] data_id=c1015523-8836-4a91-a71d-da5a870a4656, loss_rate=0.2
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #650] data_id=7437d2e4-b680-4897-8678-5ad9a23dfff4, loss_rate=0.2
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #700] data_id=b4924966-fcc9-46a7-bba5-865256daea5b, loss_rate=0.2
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #750] data_id=bbf9f9ba-a2ca-485d-b783-1ce8dee72cce, loss_rate=0.2
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #800] data_id=65768101-1c99-4cb4-b355-e8b863ce3ac6, loss_rate=0.2
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #850] data_id=f15340cb-2729-402b-bbca-b5b5ef267acc, loss_rate=0.2
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #900] data_id=211f4f30-96cb-4c2b-aa4e-e999543a4fd0, loss_rate=0.2
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #929] data_id=4c7c563f-d11a-4e95-81c4-36ac272ba3b8, loss_rate=0.2
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #950] data_id=586e9661-03b0-4b6d-b38b-9aebbab650e1, loss_rate=0.2
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #1000] data_id=af764ba5-b494-4321-a48b-2ae3fc5e94be, loss_rate=0.2
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+
+============================================================
+Loss Rate: 30%
+============================================================
+  [Trial #18] data_id=7998b309-d425-4863-b606-8d2953c44017, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #50] data_id=9369fbba-6eb2-404f-af98-28a30dc25be7, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet delivered
+    -> Success after 2 attempt(s)
+  [Trial #95] data_id=51b3f7ee-c986-4492-9f16-8ac93e12fb8a, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #100] data_id=7808cad8-573f-43b8-90e8-fffaaf6b6719, loss_rate=0.3
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #111] data_id=36f3511b-d544-4024-b2b9-23a3050fec6f, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #150] data_id=37522427-b53a-4447-9604-434f53bac220, loss_rate=0.3
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #170] data_id=eb012062-e071-441c-9645-03284f8742a5, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #190] data_id=1306e831-f131-426f-975a-22316f82a332, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #200] data_id=3a78271c-05c2-4c44-970f-d2082273d968, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet delivered
+    -> Success after 2 attempt(s)
+  [Trial #215] data_id=d4a2384d-f28e-484f-b29f-8586df731a28, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #217] data_id=6733be00-c079-411f-9b95-5567f1cdb81b, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #221] data_id=d3f3c742-4f11-47c5-933b-7cecb3ad42a3, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #250] data_id=9172becf-9e7a-46ba-998f-e114e1227b93, loss_rate=0.3
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #267] data_id=5ee73232-3b1c-40b0-80d9-2f0034bbde55, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #293] data_id=73931a83-1c4c-4f87-843c-babecb2566cc, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #296] data_id=84429eef-eff6-46ac-97cd-9ff2ae5aae74, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #300] data_id=fbeff921-4ea4-493e-a454-cb27dd00455e, loss_rate=0.3
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #350] data_id=2292f2f1-2c63-455c-8edd-03207e220349, loss_rate=0.3
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #364] data_id=a0292639-4a68-4bcc-9db2-5a069e7b880a, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #398] data_id=ba5082b3-6b65-4d71-9853-66b300728c9e, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #400] data_id=549cdcba-b623-49e1-8daa-5e659b1cd1d5, loss_rate=0.3
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #426] data_id=0376e658-caff-42df-a7af-59a2a53f6a63, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #450] data_id=c66a0ae4-6297-4432-bdda-b771f74049c4, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet delivered
+    -> Success after 2 attempt(s)
+  [Trial #486] data_id=4070908f-ef6f-48e1-a241-aa5b39682825, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #493] data_id=c7b11247-87bd-458e-8de0-9660596bbfdf, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #500] data_id=f34d1cf2-bbd4-4313-8496-50b55baa2b92, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet delivered
+    -> Success after 2 attempt(s)
+  [Trial #515] data_id=1e95b794-6737-4ac3-b8e6-2aff9bd162ae, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #518] data_id=c2b0c3ba-871c-43e5-a3cd-ca3959500d79, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #539] data_id=9c5d0fba-09fd-43e3-9f5e-0dc612e0eb18, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #546] data_id=243125b3-688e-4048-9f0c-83d2618967c1, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #550] data_id=d98b830f-63ec-4ca6-a51e-eccf6c57e4f0, loss_rate=0.3
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #581] data_id=13ec7b63-7370-4ecb-8483-5cf180a51443, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #600] data_id=21027619-55e1-4da1-990d-c3134e59f822, loss_rate=0.3
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #650] data_id=a81f1c03-bc27-465b-b729-e17cc69f2293, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet delivered
+    -> Success after 2 attempt(s)
+  [Trial #668] data_id=7c063dd0-87ef-4a23-b641-3c8fba332d9a, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #700] data_id=c9a3736b-f775-40ff-885c-ec2ecdac9cdb, loss_rate=0.3
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #719] data_id=a54c837e-8b86-41cf-92ca-e874304be49b, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #724] data_id=de07ab56-5966-414a-a887-6d4e7ff4ff10, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #750] data_id=4e5c1888-f9c2-48c6-9ddf-04dc30a7b023, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet delivered
+    -> Success after 2 attempt(s)
+  [Trial #800] data_id=7c7ef390-ce8f-44fd-af6a-84452b7b7fe0, loss_rate=0.3
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #850] data_id=9ee097ff-dbeb-4223-88fb-074afd770a25, loss_rate=0.3
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #853] data_id=dc44955f-f3bb-4baa-8caf-d7bacd0d951b, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #881] data_id=54c79119-425c-4059-99df-f7df3185e458, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #900] data_id=7d9eccaa-3144-48d6-a34e-278693851e30, loss_rate=0.3
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #934] data_id=3cfa9592-5843-4ee8-96be-26b49f2a491b, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #942] data_id=8ac9cc19-ab37-413c-b99b-47058e7664d9, loss_rate=0.3
+    Attempt 1: packet lost (simulated)
+    Attempt 2: packet lost (simulated)
+    Attempt 3: packet lost (simulated)
+    -> Failed after 3 attempts
+  [Trial #950] data_id=10c2d95f-ad7f-4499-9ebc-8d09b346a447, loss_rate=0.3
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)
+  [Trial #1000] data_id=ada57733-ef93-40da-88e0-2f1a08f07f2a, loss_rate=0.3
+    Attempt 1: packet delivered
+    -> Success after 1 attempt(s)

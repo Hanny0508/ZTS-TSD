@@ -1,0 +1,9 @@
+Packet Loss Simulation Report
+Generated: 2026-05-02 17:46:10
+Audio: /path/to/stego_audio.wav
+Trials per rate: 1000
+Max retries: 3
+============================================================
+
+ Loss Rate |  Success |  Failed |     Rate
+------------------------------------------
