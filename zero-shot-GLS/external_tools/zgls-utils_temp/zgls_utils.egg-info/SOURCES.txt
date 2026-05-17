@@ -1,0 +1,11 @@
+pyproject.toml
+setup.py
+src/huffman.cpp
+zgls_utils/__init__.py
+zgls_utils/huffman.py
+zgls_utils.egg-info/PKG-INFO
+zgls_utils.egg-info/SOURCES.txt
+zgls_utils.egg-info/dependency_links.txt
+zgls_utils.egg-info/not-zip-safe
+zgls_utils.egg-info/requires.txt
+zgls_utils.egg-info/top_level.txt

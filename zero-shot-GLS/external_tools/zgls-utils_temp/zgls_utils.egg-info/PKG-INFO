@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: zgls-utils
+Version: 0.0.1
+Summary: Utility for Zero-shot GLS
+Author: Leonard Lin
+Author-email: leonard.keilin@gmail.com
+Requires-Python: >=3.7
+Requires-Dist: numpy>=1.7.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
