@@ -1,0 +1,13 @@
+System Overhead Analysis Results
+========================================
+
+ZTS:
+  error: No module named 'transformers'
+
+TTS:
+  facodec_params: 105.48M
+  inf_time_ms: 559.1
+  peak_mem_MB: 0.0
+
+dual_channel:
+  sync_overhead_ms: 1.0
